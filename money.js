@@ -133,22 +133,3 @@ function parse(input) {
 
 // test
 money_to_string("$0.00");
-money_to_string("$1.00");
-money_to_string("$10.00");
-money_to_string("$100.00");
-money_to_string("$1000.00");
-money_to_string("$10000.00");
-money_to_string("$100000.00");
-money_to_string("$1000000.00");
-money_to_string("$10000000.00");
-money_to_string("$100000000.00");
-money_to_string("$1000000000.00");  // One billion and 00/100 dollars
-money_to_string("$1100000000.00");
-money_to_string("$1010000000.00");
-money_to_string("$1001000000.00");
-money_to_string("$1000100000.00");
-money_to_string("$1000010000.00");
-money_to_string("$1000001000.00");
-money_to_string("$1000000100.00");
-money_to_string("$1000000010.00");
-money_to_string("-$1000000001.00");
